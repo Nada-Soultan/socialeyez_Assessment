@@ -3,7 +3,7 @@ Description :This is a simple task management application built with Laravel. It
 # Installation
 To set up the project locally, follow these steps:
 
-- Clone the repository " git clone [https://github.com/yourusername/project-name.git](https://github.com/Nada-Soultan/socialeyez_Assessment.git) "
+- Clone the repository " git clone -b master https://github.com/yourusername/project-name.git](https://github.com/Nada-Soultan/socialeyez_Assessment.git "
 - Install dependencies:
 cd project-name
 composer install
