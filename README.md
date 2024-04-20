@@ -20,5 +20,7 @@ php artisan key:generate
 # Additional Notes
 - This project uses Laravel framework version 10.x.
 - i made a app/helpers.php file to handle error and success message for CRUD operations and also interval to determind the time .
--  Blade files for the frontend interface are based on a template to enhance the appearance and user experience. 
+-  Blade files for the frontend interface are based on a template to enhance the appearance and user experience.
+-  Paginator Modification: Pagination for tasks has been implemented using Laravel's paginator. Additionally, modifications to the paginator configuration have been made in the AppServiceProvider to ensure proper handling of pagination requests.
+-  Search Bar: A search functionality by task title has been implemented to allow users to search for specific tasks based on their titles. 
 
